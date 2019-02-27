@@ -9,14 +9,16 @@
   
   body {
   
-      /* background: url("./images/friend2.png") no-repeat center center fixed; */
+      background: url("./images/images4.jpg") no-repeat center center fixed;
   
-       /* background-size: cover; */
+       background-size: cover;
       color: blue;
        
     }
   
-  
+  a{
+    color: blue;
+  }
   .caption{
       text-align: center;
   }
