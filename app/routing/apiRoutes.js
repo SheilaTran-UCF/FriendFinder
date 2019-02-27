@@ -39,7 +39,7 @@ module.exports = function (app) {
          var newFriend = {
              name: req.body.name,
              photo: req.body.photo,
-             scores: []
+             scores: req.body.scores
          };
           var newScore = newFriend.scores;
          var total = 0;
