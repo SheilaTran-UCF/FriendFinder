@@ -58,6 +58,6 @@ You will use Express to handle routing. Make sure you deploy your app to Heroku 
 
 ## Preview
 
-<img src="images/Capture1.PNG" width="100%">
-<img src="images/Capture2.PNG" width="100%">
-<img src="images/Capture3.PNG" width="100%">
+<img src="../images/Capture1.PNG" width="100%">
+<img src="../images/Capture2.PNG" width="100%">
+<img src="../images/Capture3.PNG" width="100%">
