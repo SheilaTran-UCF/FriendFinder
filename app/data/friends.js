@@ -16,7 +16,7 @@ var friends = [{
   
     name: "City light",
   
-    photo: "https://www.pexels.com/photo/aerial-photography-of-building-city-lights-1036657/",
+    photo: "https://images.pexels.com/photos/1036657/pexels-photo-1036657.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
   
     scores: [1, 4, 3, 4, 4, 3, 1, 3, 2, 4]
   
@@ -24,7 +24,7 @@ var friends = [{
   
     name: "crow street",
   
-    photo: "https://www.pexels.com/photo/crowded-street-with-cars-passing-by-708764/",
+    photo: "https://www.pexels.com/photo/crowded-street-with-cars-passinghttps://images.pexels.com/photos/708764/pexels-photo-708764.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260-by-708764/",
   
     scores: [2, 3, 2, 2, 1, 3, 3, 4, 2, 1]
   
@@ -32,7 +32,7 @@ var friends = [{
   
     name: "Paris daylight",
   
-    photo: "https://www.pexels.com/photo/worms-view-of-eiffel-tower-during-daytime-149419/",
+    photo: "https://www.pexels.com/photo/worms-view-ohttps://images.pexels.com/photos/149419/pexels-photo-149419.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260f-eiffel-tower-during-daytime-149419/",
   
     scores: [1, 4, 4, 3, 4, 14, 2, 5, 2, 3]
   

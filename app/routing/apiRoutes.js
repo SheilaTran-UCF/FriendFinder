@@ -35,21 +35,16 @@ module.exports = function (app) {
     app.post("/api/new", function (req, res) {
 
         //setup variables for finding match
-        //  var newFriend = req.body;
-         var newFriend = {
-             name: req.body.name,
-             photo: req.body.photo,
-             scores: req.body.scores
-         };
-          var newScore = newFriend.scores;
-         var total = 0;
-         var bestMatch = 1000;
-         var index = -1;
+        var newFriend = req.body;
+
+        // console.log(newFriend);
+        var newScore = newFriend.scores;
+        var total = 0;
+        var bestMatch = 1000;
+        var index = -1;
         // we loop through all the friend possibilities in the database.
-        var scoreArray = [];
-        for (var i = 0; i < req.body.scores.length; i++) {
-            scoreArray.push(parseInt(req.body.scores[i]))
-        
+        for (var i = 0; i < friends.length; i++) {
+
             //Iterate through the whole list of friends already in database
 
             total = 0;
