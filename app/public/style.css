@@ -9,7 +9,7 @@
   
   body {
   
-      background: url("./images/images4.jpg") no-repeat center center fixed;
+      background: url("./images/Beach2.jpg") no-repeat center center fixed;
   
        background-size: cover;
       color: blue;
@@ -24,7 +24,7 @@
   }
   
   .panel {
-  
+      
       background-color: rgba(245, 245, 245, 0.8);
   
   }
