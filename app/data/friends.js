@@ -10,7 +10,7 @@ var friends = [{
   
     photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkbJsGs5vbHxQ8Uubc4ZDtEMU4FKubOd2gWchc1YIcrhIebW88A",
   
-    scores: [2, 2, 4, 4, 2, 5, 5, 1, 3, 2]
+    scores: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
   
   }, {
   
@@ -42,7 +42,7 @@ var friends = [{
   
     photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkcBxbbXmvedxZNwQcXRMyJqarZww0moK35f581zsx50D0TekFIw",
   
-    scores: [5, 4, 5, 3, 2, 4, 2, 1, 3, 2]
+    scores: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
   
   }, {
   
