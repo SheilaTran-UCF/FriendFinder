@@ -34,7 +34,7 @@ var friends = [{
   
     photo: "https://www.pexels.com/photo/worms-view-ohttps://images.pexels.com/photos/149419/pexels-photo-149419.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260f-eiffel-tower-during-daytime-149419/",
   
-    scores: [1, 4, 4, 3, 4, 14, 2, 5, 2, 3]
+    scores: [1, 4, 4, 3, 4, 1, 2, 5, 2, 3]
   
   }, {
   
@@ -50,7 +50,7 @@ var friends = [{
   
     photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmuwUXurfCk6RnbB2aYlRjIhwcFdMXyOg9xVk0Guzg535a78Qt",
   
-    scores: [2, 2, 12, 2, 5, 4, 4, 3, 3, 4]
+    scores: [2, 2, 2, 2, 5, 4, 4, 3, 3, 4]
   
   }, {
   
@@ -58,7 +58,7 @@ var friends = [{
   
     photo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6A6d7V_ny78FlRhdh5FLLN_1eLhlQLon69yMDJdjngCvG0THG",
   
-    scores: [2, 3, 13, 3, 4, 3, 5, 2, 3, 4]
+    scores: [2, 3, 3, 3, 4, 3, 5, 2, 3, 4]
   
   }];
   
